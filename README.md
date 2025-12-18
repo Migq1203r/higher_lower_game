@@ -93,7 +93,3 @@ You're right! Current score: 1
 * **Game Loop**:
 
   * After each guess, the screen is cleared, and a new round of celebrities is presented.
-
-## Contributing:
-
-If you'd like to contribute to this project, feel free to fork the repository, submit pull requests, or open issues. We'd love to have your feedback!
