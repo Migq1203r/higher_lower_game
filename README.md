@@ -60,8 +60,13 @@ To run this game, you'll need to have Python 3 installed on your machine. You al
 
 Who has more Followers on Instagram?
 Compare A: John Doe, a singer, from USA.
----
-VS---
+
+ _    __    
+| |  / /____
+| | / / ___/
+| |/ (__  ) 
+|___/____(_)
+
 Against B: Jane Doe, an actress, from UK.
 
 Who has more Followers? Type 'A' or 'B': A
